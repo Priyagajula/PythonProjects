@@ -1,0 +1,33 @@
+{
+  "person": {
+    "hands": {
+      "min": 0,
+      "max": 2
+    },
+    "fingers": {
+      "min": 1,
+      "max": 10
+    },
+    "feet": {
+      "min": 0,
+      "max": 2
+    },
+    "toes": {
+      "min": 1,
+      "max": 10
+    },
+    "age": {
+      "min": 50,
+      "max": 100
+    },
+    "name": {
+      "min": 5,
+      "max": 10
+    },
+    "gender": [
+      "men",
+      "women",
+      "undefined"
+    ]
+  }
+}
